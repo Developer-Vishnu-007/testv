@@ -1,1 +1,7 @@
+body{
+  color:red;
+  font-family:arial;
+}
+
+<!-- body is the selector , color is the property , red is the value, all the prop and val within the the braces is called declaration-->
 
